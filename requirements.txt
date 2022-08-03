@@ -1,0 +1,6 @@
+robotframework==4.0.3
+robotframework-browser==8.0.2
+robotframework-faker==5.0.0
+robotframework-jsonlibrary==0.4.1
+robotframework-jsonvalidator==2.0.0
+robotframework-requests==0.9.1
