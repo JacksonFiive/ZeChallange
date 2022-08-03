@@ -15,7 +15,8 @@
            ├── base                              # Diretório de arquivos com variaveis gerais 
            ├── resource                          # Diretorio com o arquivo de keywords
            ├── tests                             # Diretório com o arquivo de cenários de teste   
-    |── requiriments.txt                       # arquivo com as bibliotecas utilizadas  
+    |── Documentação.pdf                         # PDF com informações relacionadas aos testes   
+    |── requiriments.txt                         # arquivo com as bibliotecas utilizadas  
     └── README.md                                
 
 
